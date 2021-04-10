@@ -3,7 +3,7 @@ library(dplyr)
 library(caret)
 library(psych)
 library(ggplot2)
-data1 <- read.csv("CEW.csv")
+data1 <- read.csv("CEW.csv")           #You can use any data 
 data1
 head(data1)
 #Frequency identification
